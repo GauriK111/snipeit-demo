@@ -1,5 +1,5 @@
 
-# SnipeItAutomation by AKASHDEEP
+# SnipeItAutomation
 
 This project implements automated UI testing for the Snipe-IT demo asset management system using .NET 8, Microsoft Playwright, and NUnit. 
 
